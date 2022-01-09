@@ -11740,9 +11740,9 @@ body {
 
 .titel-speciaal {
   /* https://media2.giphy.com/media/TG8DczcGF3iHV6w05G/giphy.gif?cid=ecf05e47syv6rjdkjr2mrep9tbzmjw6vk1f1z8vkw8nkc109&rid=giphy.gif&ct=g */
-  /*background-image: url(https://media2.giphy.com/media/l2QEdvfq7bCCk6qOI/giphy.gif?cid=ecf05e47q7a37zjqt42kczfalp7kbmhstleqqoucxecobyd9&rid=giphy.gif&ct=g);*/
+  background-image: url(https://media2.giphy.com/media/l2QEdvfq7bCCk6qOI/giphy.gif?cid=ecf05e47q7a37zjqt42kczfalp7kbmhstleqqoucxecobyd9&rid=giphy.gif&ct=g);
   background-size: cover;
-  background-image: url(https://c.tenor.com/Z6gmDPeM6dgAAAAC/dance-moves.gif);
+  /*background-image: url(https://c.tenor.com/Z6gmDPeM6dgAAAAC/dance-moves.gif);*/
 
   color: transparent;
   -moz-background-clip: text;
