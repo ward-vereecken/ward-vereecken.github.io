@@ -11567,6 +11567,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+  border-top: 5px solid #64A19D;
 }
 .masthead h1, .masthead .h1 {
   font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -11584,6 +11585,27 @@ body {
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
 }
+
+html,
+body{
+width:100%;
+overflow-x:hidden;
+}
+
+#wrapper {
+  height: 75px;
+}
+#div1 {
+  display: inline-block;
+  width:120px;
+  height:120px;
+}
+#div2 {
+  display: inline-block;
+  width:160px;
+  height:160px;
+}
+
 .masthead h2, .masthead .h2 {
   max-width: 20rem;
   font-size: 1rem;
@@ -11721,7 +11743,10 @@ li:not(:last-child) {
 
 .informatie{
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/space-earth.jpg");
-  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
 }
 
 .signup-section {
